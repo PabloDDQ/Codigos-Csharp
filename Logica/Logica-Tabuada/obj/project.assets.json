@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pablo\\Desktop\\C#\\Logica-Tabuada\\Logica-Tabuada.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\Desktop\\C#\\Logica\\Logica-Tabuada\\Logica-Tabuada.csproj",
       "projectName": "Logica-Tabuada",
-      "projectPath": "C:\\Users\\pablo\\Desktop\\C#\\Logica-Tabuada\\Logica-Tabuada.csproj",
+      "projectPath": "C:\\Users\\pablo\\Desktop\\C#\\Logica\\Logica-Tabuada\\Logica-Tabuada.csproj",
       "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pablo\\Desktop\\C#\\Logica-Tabuada\\obj\\",
+      "outputPath": "C:\\Users\\pablo\\Desktop\\C#\\Logica\\Logica-Tabuada\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config"

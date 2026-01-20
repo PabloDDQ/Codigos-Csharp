@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pablo\\Desktop\\C#\\Logica-GerenciadorTarefas\\Logica-GerenciadorTarefas.csproj": {}
+    "C:\\Users\\pablo\\Desktop\\C#\\Logica\\Logica-GerenciadorTarefas\\Logica-GerenciadorTarefas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pablo\\Desktop\\C#\\Logica-GerenciadorTarefas\\Logica-GerenciadorTarefas.csproj": {
+    "C:\\Users\\pablo\\Desktop\\C#\\Logica\\Logica-GerenciadorTarefas\\Logica-GerenciadorTarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pablo\\Desktop\\C#\\Logica-GerenciadorTarefas\\Logica-GerenciadorTarefas.csproj",
+        "projectUniqueName": "C:\\Users\\pablo\\Desktop\\C#\\Logica\\Logica-GerenciadorTarefas\\Logica-GerenciadorTarefas.csproj",
         "projectName": "Logica-GerenciadorTarefas",
-        "projectPath": "C:\\Users\\pablo\\Desktop\\C#\\Logica-GerenciadorTarefas\\Logica-GerenciadorTarefas.csproj",
+        "projectPath": "C:\\Users\\pablo\\Desktop\\C#\\Logica\\Logica-GerenciadorTarefas\\Logica-GerenciadorTarefas.csproj",
         "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pablo\\Desktop\\C#\\Logica-GerenciadorTarefas\\obj\\",
+        "outputPath": "C:\\Users\\pablo\\Desktop\\C#\\Logica\\Logica-GerenciadorTarefas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config"

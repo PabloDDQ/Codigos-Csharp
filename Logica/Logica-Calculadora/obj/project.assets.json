@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pablo\\Desktop\\C#\\Logica\\Logica.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\Desktop\\C#\\Logica\\Logica-Calculadora\\Logica.csproj",
       "projectName": "Logica",
-      "projectPath": "C:\\Users\\pablo\\Desktop\\C#\\Logica\\Logica.csproj",
+      "projectPath": "C:\\Users\\pablo\\Desktop\\C#\\Logica\\Logica-Calculadora\\Logica.csproj",
       "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pablo\\Desktop\\C#\\Logica\\obj\\",
+      "outputPath": "C:\\Users\\pablo\\Desktop\\C#\\Logica\\Logica-Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config"
