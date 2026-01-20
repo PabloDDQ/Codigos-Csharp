@@ -1,0 +1,15 @@
+C:\Users\pablo\Desktop\C#\Logica\bin\Debug\net9.0\Logica.exe
+C:\Users\pablo\Desktop\C#\Logica\bin\Debug\net9.0\Logica.deps.json
+C:\Users\pablo\Desktop\C#\Logica\bin\Debug\net9.0\Logica.runtimeconfig.json
+C:\Users\pablo\Desktop\C#\Logica\bin\Debug\net9.0\Logica.dll
+C:\Users\pablo\Desktop\C#\Logica\bin\Debug\net9.0\Logica.pdb
+C:\Users\pablo\Desktop\C#\Logica\obj\Debug\net9.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Desktop\C#\Logica\obj\Debug\net9.0\Logica.AssemblyInfoInputs.cache
+C:\Users\pablo\Desktop\C#\Logica\obj\Debug\net9.0\Logica.AssemblyInfo.cs
+C:\Users\pablo\Desktop\C#\Logica\obj\Debug\net9.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\C#\Logica\obj\Debug\net9.0\Logica.sourcelink.json
+C:\Users\pablo\Desktop\C#\Logica\obj\Debug\net9.0\Logica.dll
+C:\Users\pablo\Desktop\C#\Logica\obj\Debug\net9.0\refint\Logica.dll
+C:\Users\pablo\Desktop\C#\Logica\obj\Debug\net9.0\Logica.pdb
+C:\Users\pablo\Desktop\C#\Logica\obj\Debug\net9.0\Logica.genruntimeconfig.cache
+C:\Users\pablo\Desktop\C#\Logica\obj\Debug\net9.0\ref\Logica.dll

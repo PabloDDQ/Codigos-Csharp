@@ -1,0 +1,15 @@
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\obj\Debug\net9.0\Logica-GerenciadorTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\obj\Debug\net9.0\Logica-GerenciadorTarefas.AssemblyInfoInputs.cache
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\obj\Debug\net9.0\Logica-GerenciadorTarefas.AssemblyInfo.cs
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\obj\Debug\net9.0\Logica-GerenciadorTarefas.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\obj\Debug\net9.0\Logica-GerenciadorTarefas.sourcelink.json
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\bin\Debug\net9.0\Logica-GerenciadorTarefas.exe
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\bin\Debug\net9.0\Logica-GerenciadorTarefas.deps.json
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\bin\Debug\net9.0\Logica-GerenciadorTarefas.runtimeconfig.json
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\bin\Debug\net9.0\Logica-GerenciadorTarefas.dll
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\bin\Debug\net9.0\Logica-GerenciadorTarefas.pdb
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\obj\Debug\net9.0\Logica-GerenciadorTarefas.dll
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\obj\Debug\net9.0\refint\Logica-GerenciadorTarefas.dll
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\obj\Debug\net9.0\Logica-GerenciadorTarefas.pdb
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\obj\Debug\net9.0\Logica-GerenciadorTarefas.genruntimeconfig.cache
+C:\Users\pablo\Desktop\C#\Logica-GerenciadorTarefas\obj\Debug\net9.0\ref\Logica-GerenciadorTarefas.dll
