@@ -1,6 +1,7 @@
 ﻿class Tabuada
 {
-    public static void Main(string[] args){
+    public static void Main(string[] args)
+    {
         String opcao_sair, numEscolhido, numInteracoes;
         double numEscolhidoConvertido;
         int numInteracoesConvertido;
@@ -16,7 +17,7 @@
             numInteracoesConvertido = int.Parse(numInteracoes);
 
             LogicaTabuada(numInteracoesConvertido, numEscolhidoConvertido);
-            
+
             Console.Write("Deseja rodar novamente? (S/N): ");
             opcao_sair = Console.ReadLine();
 
@@ -24,21 +25,13 @@
 
         Console.Write("Programa Encerrado!");
 
-        
-
-        
     }
-
     public static void LogicaTabuada(int numeroInteracoes, double numEscolhido)
     {
-
         for (int i = 0; i <= numeroInteracoes; i++)
         {
-            Console.WriteLine(numEscolhido + " X " + i + " = " + (i*numEscolhido));
-            
-        }
-        
-    }
+            Console.WriteLine(numEscolhido + " X " + i + " = " + (i * numEscolhido));
 
-    
+        }
+    }
 }
