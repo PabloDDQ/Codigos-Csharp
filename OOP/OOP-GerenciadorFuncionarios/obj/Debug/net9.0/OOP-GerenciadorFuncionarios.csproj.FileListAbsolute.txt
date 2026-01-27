@@ -1,0 +1,15 @@
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\obj\Debug\net9.0\OOP-GerenciadorFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\obj\Debug\net9.0\OOP-GerenciadorFuncionarios.AssemblyInfoInputs.cache
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\obj\Debug\net9.0\OOP-GerenciadorFuncionarios.AssemblyInfo.cs
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\obj\Debug\net9.0\OOP-GerenciadorFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\obj\Debug\net9.0\OOP-GerenciadorFuncionarios.sourcelink.json
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\bin\Debug\net9.0\OOP-GerenciadorFuncionarios.exe
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\bin\Debug\net9.0\OOP-GerenciadorFuncionarios.deps.json
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\bin\Debug\net9.0\OOP-GerenciadorFuncionarios.runtimeconfig.json
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\bin\Debug\net9.0\OOP-GerenciadorFuncionarios.dll
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\bin\Debug\net9.0\OOP-GerenciadorFuncionarios.pdb
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\obj\Debug\net9.0\OOP-GerenciadorFuncionarios.dll
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\obj\Debug\net9.0\refint\OOP-GerenciadorFuncionarios.dll
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\obj\Debug\net9.0\OOP-GerenciadorFuncionarios.pdb
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\obj\Debug\net9.0\OOP-GerenciadorFuncionarios.genruntimeconfig.cache
+C:\Users\pablo\Desktop\C#\OOP\OOP-GerenciadorFuncionarios\obj\Debug\net9.0\ref\OOP-GerenciadorFuncionarios.dll
