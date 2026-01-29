@@ -1,0 +1,37 @@
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\Lista Telefonica.exe
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\Lista Telefonica.deps.json
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\Lista Telefonica.runtimeconfig.json
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\Lista Telefonica.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\Lista Telefonica.pdb
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\obj\Debug\net9.0\Lista Telefonica.csproj.AssemblyReference.cache
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\obj\Debug\net9.0\Lista Telefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\obj\Debug\net9.0\Lista Telefonica.AssemblyInfoInputs.cache
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\obj\Debug\net9.0\Lista Telefonica.AssemblyInfo.cs
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\obj\Debug\net9.0\Lista Telefonica.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\obj\Debug\net9.0\Lista Telefonica.sourcelink.json
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\obj\Debug\net9.0\Lista Te.364CE16F.Up2Date
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\obj\Debug\net9.0\Lista Telefonica.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\obj\Debug\net9.0\refint\Lista Telefonica.dll
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\obj\Debug\net9.0\Lista Telefonica.pdb
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\obj\Debug\net9.0\Lista Telefonica.genruntimeconfig.cache
+C:\Users\pablo\Desktop\C#\C# + MySQL\Lista Telefonica\obj\Debug\net9.0\ref\Lista Telefonica.dll
