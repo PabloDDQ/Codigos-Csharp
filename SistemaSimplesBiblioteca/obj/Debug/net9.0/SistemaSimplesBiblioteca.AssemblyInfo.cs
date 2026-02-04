@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Logica")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SistemaSimplesBiblioteca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c928ca6a427dd2aff0c02cfc5c1706f87c4e3eb")]
-[assembly: System.Reflection.AssemblyProductAttribute("Logica")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Logica")]
+[assembly: System.Reflection.AssemblyProductAttribute("SistemaSimplesBiblioteca")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SistemaSimplesBiblioteca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

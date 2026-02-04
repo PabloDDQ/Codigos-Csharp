@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Logica-Tabuada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c08c3a54435128e932e29b46d59a35afe1d126f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c928ca6a427dd2aff0c02cfc5c1706f87c4e3eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Logica-Tabuada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Logica-Tabuada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

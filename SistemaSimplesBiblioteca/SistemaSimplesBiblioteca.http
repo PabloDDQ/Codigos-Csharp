@@ -1,0 +1,6 @@
+@SistemaSimplesBiblioteca_HostAddress = http://localhost:5225
+
+GET {{Sistema_Simples_Biblioteca_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
