@@ -1,0 +1,6 @@
+@SistemaControleFinanceiro_HostAddress = http://localhost:5194
+
+GET {{SistemaControleFinanceiro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
